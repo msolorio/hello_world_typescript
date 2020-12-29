@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "target": "esnext",
     "module": "system",
     "noImplicitAny": true,
     "removeComments": true,
@@ -8,5 +9,5 @@
     "sourceMap": true,
     "outFile": "./build/main.js"
   },
-  "files": [ "src/main.ts" ]
+  "files": [ "src/interfaces.ts" ]
 }
