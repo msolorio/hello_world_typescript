@@ -9,5 +9,5 @@
     "sourceMap": true,
     "outFile": "./build/main.js"
   },
-  "files": [ "src/interfaces.ts" ]
+  "files": [ "src/functions.ts" ]
 }
